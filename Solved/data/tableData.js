@@ -5,10 +5,10 @@
 
 const tableArray = [
   {
-    customerName: 'Ahmed',
-    customerEmail: 'ahmed@example.com',
-    customerID: 'afhaque89',
-    phoneNumber: '000-000-0000',
+    customerName: 'Dennis',
+    customerEmail: 'dennis@dennis.com',
+    customerID: 'dennis',
+    phoneNumber: '000-000-1325',
   },
 ];
 
